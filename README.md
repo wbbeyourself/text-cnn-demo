@@ -2,9 +2,9 @@
 imdb text-cnn demo
 
 ## 开发环境
-tensorflow 1.8.0
-CUDA 9.1
-keras 2.2.2
+- tensorflow 1.8.0
+- CUDA 9.1
+- keras 2.2.2
 
 ## 相关链接
 - [TextCNN 介绍(上)][1]
